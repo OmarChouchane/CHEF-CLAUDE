@@ -9,7 +9,8 @@ Welcome to **Chef Omar**, an AI-powered recipe generator built with **React.js**
 - 🌍 **Dynamic & Fun** - Experiment with different ingredients and discover new flavors!
 
 ## 🖥️ Demo
-🔗 [Live Demo](#) *(Add your deployed link here!)*
+🔗 [https://chef-omar.vercel.app/]
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js (from Scrimba Course)
@@ -17,7 +18,8 @@ Welcome to **Chef Omar**, an AI-powered recipe generator built with **React.js**
 - **Styling**: CSS & modern UI components
 
 ## 📸 Preview
-![Chef Omar Screenshot](#) *(Add an image/GIF of your app in action!)*
+![Screenshot 2025-03-02 153440](https://github.com/user-attachments/assets/98a317a0-30a1-4929-bd72-1613af0f625c)
+
 
 ## 📦 Installation
 ```bash
@@ -49,4 +51,4 @@ Pull requests are welcome! Feel free to fork the repo and submit your improvemen
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Omar Chouchane](https://github.com/OmarChouchane)
