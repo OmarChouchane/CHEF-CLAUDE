@@ -20,7 +20,7 @@ export default function ClaudeRecipe({ ingredients }) {
 
     return (
         <section>
-            <h2>Chef Claude Recommends:</h2>
+            <h2>Chef Omar Recommends:</h2>
             <article className="suggested-recipe-container" aria-live="polite">
              <ReactMarkdown>{recipe}</ReactMarkdown>
             </article>
