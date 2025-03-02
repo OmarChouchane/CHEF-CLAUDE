@@ -17,7 +17,10 @@ Welcome to **Chef Claude**, an AI-powered recipe generator built with **React.js
 - **Styling**: CSS & modern UI components
 
 ## 📸 Preview
-![Chef Claude Screenshot](#) *(Add an image/GIF of your app in action!)*
+![Chef Claude Screenshot](#) ![Screenshot 2025-03-02 033953](https://github.com/user-attachments/assets/ff7e9f7d-a536-4761-8c16-ef00f8ba3cc0)
+![Screenshot 2025-03-02 034014](https://github.com/user-attachments/assets/66138d9f-ca2e-43bc-8e72-46bcb3ac11b0)
+
+![Screenshot 2025-03-02 034026](https://github.com/user-attachments/assets/26622d5c-8455-4ca1-935a-ed85d4c45aaf)
 
 ## 📦 Installation
 ```bash
