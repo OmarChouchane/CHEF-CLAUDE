@@ -1,6 +1,6 @@
-# 🍽️ Chef Claude - AI-Powered Recipe Generator
+# 🍽️ Chef Omar - AI-Powered Recipe Generator
 
-Welcome to **Chef Claude**, an AI-powered recipe generator built with **React.js**! This app creates unique and delicious recipes based on user input, utilizing the **Hugging Face AI API**. 
+Welcome to **Chef Omar**, an AI-powered recipe generator built with **React.js**! This app creates unique and delicious recipes based on user input, utilizing the **Hugging Face AI API**. 
 
 ## 🚀 Features
 - 🧑‍🍳 **AI-Powered Recipe Generation** - Get custom recipes based on ingredients or preferences.
@@ -17,13 +17,13 @@ Welcome to **Chef Claude**, an AI-powered recipe generator built with **React.js
 - **Styling**: CSS & modern UI components
 
 ## 📸 Preview
-![Chef Claude Screenshot](#) *(Add an image/GIF of your app in action!)*
+![Chef Omar Screenshot](#) *(Add an image/GIF of your app in action!)*
 
 ## 📦 Installation
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/chef-claude.git
-cd chef-claude
+git clone https://github.com/your-username/chef-Omar.git
+cd chef-Omar
 
 # Install dependencies
 npm install
@@ -40,7 +40,7 @@ npm start
 ## 🎯 Future Enhancements
 - 📌 **Save Favorite Recipes** - Bookmark and revisit generated recipes.
 - 🌍 **Multi-Language Support** - Expand accessibility with multiple languages.
-- 📱 **Mobile App Version** - Turn Chef Claude into a mobile-friendly experience.
+- 📱 **Mobile App Version** - Turn Chef Omar into a mobile-friendly experience.
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to fork the repo and submit your improvements.
